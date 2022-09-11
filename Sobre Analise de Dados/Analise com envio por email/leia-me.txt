@@ -1,0 +1,1 @@
+Para o PyCharm fazer a conexao com outlook, tenha instalado o mesmo na sua Maquina para que o PyCharm consiga enviar o email para o destinatario.
